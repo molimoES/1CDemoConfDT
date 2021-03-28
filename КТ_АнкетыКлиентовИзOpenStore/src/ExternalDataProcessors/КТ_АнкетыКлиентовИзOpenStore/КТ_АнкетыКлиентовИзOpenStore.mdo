@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6fdf6be0-2b70-4854-8b6a-dbcdf0369447">
+  <producedTypes>
+    <objectType typeId="fdc5c16c-f274-47b4-ae9c-6ff2c29e7473" valueTypeId="e40916da-69f8-4c82-a7bc-764ce1ee19e5"/>
+  </producedTypes>
+  <name>КТ_АнкетыКлиентовИзOpenStore</name>
+  <synonym>
+    <key>ru</key>
+    <value>КТ: Анкеты клиентов из OpenStore</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="8192509a-c112-407f-a903-0e7fe8a4a96f"/>
+  <defaultForm>ExternalDataProcessor.КТ_АнкетыКлиентовИзOpenStore.Form.Форма</defaultForm>
+  <forms uuid="f0c959e1-3616-4f6a-a680-f8acf376e406">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
